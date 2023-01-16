@@ -1,0 +1,15 @@
+/Backend/node_modules/
+/Backend/.env
+/Backend/package-lock.json
+/Backend/admin/build
+/Backend/client/build
+
+
+/AdminApp/node_modules/
+/AdminApp/.env
+/AdminApp/package-lock.json
+/AdminApp/build
+
+/Frontend/node_modules/
+/Frontend/.env
+/Frontend/package-lock.json
